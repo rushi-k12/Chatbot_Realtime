@@ -28,6 +28,9 @@ This project showcases the development and deployment of a sophisticated chatbot
 - `res.zip`: Zipped resource files.
 - `researcher.py`: Script containing the core logic for searching, retrieving, and processing information.
 
+## Deployment Link:
+https://huggingface.co/spaces/rushi-k/app_10
+
 ## Usage
 Open your web browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
 Enter your query in the input field and get AI-generated responses from the chatbot.
